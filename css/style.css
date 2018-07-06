@@ -36,4 +36,8 @@ figcaption {
   font-family: "Else Swash Caps", cursive;
 }
 
-#details a:link
+#details a:link, a:visited {
+  color: black;
+  text-decoration: none;
+}
+
