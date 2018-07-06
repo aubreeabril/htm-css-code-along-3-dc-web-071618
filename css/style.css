@@ -12,6 +12,7 @@ figcaption {
   line-height:1.5em;
   font-family: Georgia, "Times New Roman", serif; */
   font: normal, 0.75em/1.5em, Georgia, "Times New Roman", serif;
-  color:#8844cc;
+  color:#777;
+  text-align:right;
 }
 
